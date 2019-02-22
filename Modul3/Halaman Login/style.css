@@ -1,0 +1,20 @@
+body{
+	background-color: lightgreen;
+}
+.card{
+	width: 25%;
+	height:200px;
+	background-color: lightblue;
+	border: 3px solid black;
+}
+.name{
+	background-color: pink;
+	border:2px groove black;
+}
+input[type=submit]{
+	background-color:lightgreen;
+	border : 2px groove black;
+}
+h1{
+	text-align:center;
+}
